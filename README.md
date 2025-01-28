@@ -1,1 +1,5 @@
-# InternRegistrationProject
+# InternRegistrationProject![menu](https://github.com/user-attachments/assets/1958068f-e3a4-4645-886f-05eb05b89c93)
+![Note Adding](https://github.com/user-attachments/assets/020ddb1c-6ec2-43fb-97fb-7fe3dd6b46f9)
+![List Result](https://github.com/user-attachments/assets/48a607d1-ff36-4b99-afca-e59e63c816fd)
+![Intern Adding](https://github.com/user-attachments/assets/c9c4a05a-1cf9-450b-a107-21a9bcc0547e)
+![Add Department](https://github.com/user-attachments/assets/9fa2a1b8-cf36-4e9e-bf12-41f611f9066b)
